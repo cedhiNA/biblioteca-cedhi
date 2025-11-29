@@ -1,0 +1,6 @@
+/app/config.php
+/vendor/
+.env
+/.htaccess
+*.log
+README.md
