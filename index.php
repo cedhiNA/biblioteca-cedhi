@@ -1,4 +1,5 @@
 <?php
+// Manejo del inicio de sesión mediante Google OAuth y validación de estado del usuario
 require_once __DIR__ . '/app/auth.php';
 
 if (session_status() === PHP_SESSION_NONE) {
